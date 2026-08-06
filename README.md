@@ -195,22 +195,6 @@ student-complaint-management-system/
 
 ---
 
-## 📊 Screenshots
-
-### Landing Page
-*[Description: Modern home page with hero section and features]*
-
-### Student Dashboard
-*[Description: Student dashboard with statistics and recent complaints]*
-
-### Admin Dashboard
-*[Description: Admin dashboard with charts and statistics]*
-
-### Complaint Management
-*[Description: Admin complaint management interface]*
-
----
-
 ## 🧪 Testing
 
 ### Manual Testing Checklist
