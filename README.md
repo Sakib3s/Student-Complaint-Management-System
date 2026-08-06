@@ -9,7 +9,7 @@
 
 A complete web-based complaint and feedback management system for universities.
 
-[Features](#-features) • [Installation](#-installation) • [Screenshots](#-screenshots) • [Contributing](#-contributing)
+[Features](#-features) • [Installation](#-installation) • [Contributing](#-contributing)
 
 </div>
 
