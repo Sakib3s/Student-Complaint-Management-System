@@ -19,11 +19,6 @@ A complete web-based complaint and feedback management system for universities.
 
 This system provides a platform for students to submit complaints and feedback about university services, and for administrators to manage and respond to these submissions efficiently. Built as a CSE Practicum project for RTM Al-KABIR Technical University.
 
-**University:** RTM Al-KABIR Technical University  
-**Department:** Computer Science and Engineering (CSE)  
-**Student:** Sakib Hasan  
-**Student ID:** 0992320005101814
-
 ---
 
 ## ✨ Features
@@ -233,14 +228,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 👨‍💻 Author
-
-**Sakib Hasan**  
-Student ID: 0992320005101814  
-Department of Computer Science and Engineering  
-RTM Al-KABIR Technical University
-
----
 
 ## 🙏 Acknowledgments
 
@@ -248,14 +235,6 @@ RTM Al-KABIR Technical University
 - Department of Computer Science and Engineering
 - Project Supervisors and Faculty Members
 - Open Source Community (PHP, MySQL, Bootstrap, Chart.js)
-
----
-
-## 📞 Support
-
-For issues or questions:
-- Create an issue on GitHub
-- Contact: sakib@rtm.edu (demo email)
 
 ---
 
